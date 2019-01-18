@@ -1,4 +1,4 @@
-Building a basic Dapp for elections
+Building a basic Dapp for elections.
 Tools used are here:
 1. Web3 JS - enables client side app to talk to blockchain
 2. Metamask - enables browser to talk to blockchain
